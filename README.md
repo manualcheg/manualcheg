@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manualcheg
-- 👀 I aspire to android developer.
-- 🌱 I’m currently finished course Android-developer from Yandex Praktikum.
+- 👋 Hi, I’m Andrei
+- 👀 I aspire to become an Android developer.
+- 🌱 I’m currently finished course Android developer from Yandex Praktikum.
 - 📫 My contacts:
    • https://linkedin.com/akochubeev
    • manualcheg@yandex.ru
